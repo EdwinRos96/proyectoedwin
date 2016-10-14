@@ -1,0 +1,352 @@
+/* Estilos para index.html */
+
+#h1index{
+   text-align: center;
+   margin: 50px;
+   font-family: Verdana;
+   font-size: 48px;
+   color: darkblue;
+   background-color: whitesmoke;
+   border: 5px dashed brown;
+}
+
+#h2index{
+    position:absolute;
+    margin-top: 920px;
+    margin-left: 350px;
+    text-align: center;
+    color: white;
+    font-size: 42px;
+    background-color: green;
+    border-radius: 10px;
+    border: 4px dashed orange;
+}
+
+body{
+    background-image:url("./img/background.jpg");
+    background-color: #cccccc;
+    
+}
+
+nav{
+    border-radius: 100px;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    border: 5px groove black;
+    margin-left: 650px;
+    margin-top: 1px;
+        
+
+}
+
+a{
+    font-size: 24px;
+    font-family: Arial, serif;
+    color: blue;
+
+}
+
+ul{
+    margin: 20px;
+}
+
+
+#coraje{
+    background-image: url("./img/coraje.gif");
+    width: 500px;
+    height: 381px;
+    margin-left: 100px;
+
+}
+
+#introduccion{
+    font-size: 24px;
+    width: 1024px;
+    font-family:  sans-serif;
+    color: white;
+    border-radius: 10px;
+    border: 5px ridge black;
+    background-color: blueviolet;
+    margin-left: 10px;
+    margin-right: 00px;
+    margin-top: -5px; 
+    padding: 20px;
+    position: absolute;
+    line-height: 35px;
+    text-align: justify;
+    
+}
+#significado{
+     font-size: 24px;
+    width: 1100px;
+    position: absolute;
+    font-family: Roboto, sans-serif;
+    color: white;
+    border-radius: 45px;
+    border: 5px dotted black;
+    background-color: cadetblue;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-top: 450px; 
+    padding: 20px;
+    line-height: 35px;
+    text-align: justify;
+}
+
+#footerEd{
+    position: absolute;
+    font: bold;
+    margin-top: 1200px;
+    margin-left: 0px;
+    color: white;
+    background-color: grey;
+    padding: 10px;
+    font-size: 26px;
+    border-radius: 20px;
+    border: 5px double black;    
+    line-height: 50px;
+    width: 1220px;
+
+}
+
+
+
+
+/* Estilos para mejorescomp.html */
+
+#bodymc{
+    background-image:url("./img/circuito.jpg");
+}
+
+#navmc{
+    margin-left: 850px;
+    background-color: blanchedalmond;
+    border: 5px groove black;
+}
+
+#h1mc{
+    color:  darkviolet;
+    background-color: white;
+    padding: 10px;
+    border: 15px groove green;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 70px;
+    font-size: 48px;
+;
+    text-align: center;
+}
+#h2mc1{
+    color:orange;
+    background-color: black;
+    padding: 20px;
+    position:absolute;
+    border-radius: 20px;
+    font-size: 32px;    
+    margin-left: 0px;
+   
+}
+#h2mc2{
+    color:orange;
+    background-color: black;
+    margin-left: 0px;
+    margin-top: 580px;
+    padding: 20px;
+    position:absolute;
+    border-radius: 20px;
+    font-size: 32px;
+}
+#h2mc3{
+    color:orange;
+    background-color: black;
+    padding: 20px;
+    margin-top: 1060px;
+    position:absolute;
+    border-radius: 20px;
+    font-size: 32px;      
+    margin-left: 0px;
+}
+
+#imagen1{
+    background-image: url("./img/sc1.jpg");
+    width: 800px;
+    height: 450px;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+#imagen2{
+    background-image: url("./img/sc2.jpg");
+    width: 800px;
+    height: 360px;
+    margin-top: 110px;
+    border-radius: 10px;
+}
+#imagen3{
+    background-image: url("./img/sc3.jpg");
+    width: 900px;
+    height: 505px;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+#footerEdmc{
+    position: absolute;
+    font: bold;
+    margin-top: 300px;
+    margin-left: 0px;
+    color: white;
+    background-color: grey;
+    padding: 10px;
+    font-size: 26px;
+    border-radius: 20px;
+    border: 5px double black;    
+    line-height: 50px;
+    width: 1220px;
+
+}
+
+
+/* Estilos para caracteristicas.html */
+
+#bodycar{
+    background-image:url("./img/supercomp.jpg");
+}
+
+#navcar{
+    margin-left: 850px;
+    background-color: blanchedalmond;
+    border: 5px groove black;
+}
+
+#h1car{
+    color:  white;
+    background-color: black;
+    padding: 10px;
+    border: 10px dotted green;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 70px;
+    font-size: 48px;
+
+    text-align: center;
+}
+h3{
+    color: white;
+    background-color: blue;
+    padding: 20px;
+    margin-top: 100px;
+    position:absolute;
+    border-radius: 20px;
+    font-size: 32px;    
+    margin-left: 0px;
+}
+
+ol{
+    margin-top: 200px;
+    font-size: 28px;
+    line-height: 50px;
+    border-radius: 10px;
+    color: black;
+    background-color: aqua;
+    border: 10px ridge black;
+    font-family: Roboto, serif;
+}
+
+#footerEdCar{
+    position: absolute;
+    font: bold;
+    margin-top: 500px;
+    margin-left: 0px;
+    color: white;
+    background-color: grey;
+    padding: 10px;
+    font-size: 26px;
+    border-radius: 20px;
+    border: 5px double black;    
+    line-height: 50px;
+    width: 1220px;
+
+}
+
+#img{
+    background-image:url("./img/case.gif");
+    width: 300px;
+    height: 315px;
+    margin-left: 500px;
+    margin-top: 80px;
+    position: absolute;
+
+}
+
+
+/* Estilos para historia.html */
+
+#h1his{
+color:  white;
+    background-color: black;
+    padding: 10px;
+    border: 10px dotted purple;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 70px;
+    font-size: 48px;
+    font-family: Georgia, sans-serif;
+    text-align: center;
+}
+
+#navhis{
+    margin-left: 850px;
+    background-color: blanchedalmond;
+    border: 5px groove black;
+}
+
+#h3his{
+    color:white;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 32px;
+    margin-top: 60px;
+    margin-left: 10px;
+    font-size: 56px;
+    text-align: center;
+}
+
+#footerEdHis{
+ position: absolute;
+    font: bold;
+    margin-top: 1000px;
+    margin-left: 0px;
+    color: white;
+    background-color: grey;
+    padding: 10px;
+    font-size: 26px;
+    border-radius: 20px;
+    border: 5px double black;    
+    line-height: 50px;
+    width: 1220px;
+
+}
+
+#historia{
+    margin-top: 100px;
+    border: 15px ridge blue;
+    border-radius: 10px;
+    color: white;
+    font-size: 26px;
+    background-color: green;
+
+    position: absolute;
+}
+
+#bodyhis{
+    background-image:url("./img/supercomp2.jpg");
+}
+
+#besponja{
+    background-image:url("./img/besponja.gif");
+    width: 320px;
+    height: 240px;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 450px;
+
+}
